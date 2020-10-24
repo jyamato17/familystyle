@@ -1,0 +1,16 @@
+.btn-default {
+  font-family: Raleway-SemiBold;
+  font-size: 13px;
+  color: black;
+  letter-spacing: 1px;
+  line-height: 15px;
+
+  border-radius: 40px;
+  background: white;
+  transition: all 0.3s ease 0s;
+}
+
+#aboutBody {
+
+  
+}
